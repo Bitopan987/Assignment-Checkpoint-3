@@ -367,7 +367,7 @@ address p {
 
 .hero {
   height: 100vh;
-  background: url(/assets/media/hero/h1_hero.jpg) 0 0 no-repeat;
+  background: url(../media/hero/h1_hero.jpg) 0 0 no-repeat;
   background-size: cover;
   display: flex;
   justify-content: flex-start;
